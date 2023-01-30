@@ -1,0 +1,9 @@
+.env
+
+**/.terraform/
+**/.terraform.tfstate
+**/.terraform.tfvars
+**/terraform.tfvars
+**/terraform.tfstate.backup
+
+/public

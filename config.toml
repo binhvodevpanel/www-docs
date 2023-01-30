@@ -1,0 +1,22 @@
+baseURL = "/"
+
+title = "DevPanel | Docs"
+theme = "hugo-theme-learn"
+languageCode = "en-us"
+metaDataFormat = "yaml"
+
+[params]
+  editURL = "https://gitlab.com/devpanel-vn/www-docs/-/tree/master/content/"
+  description = "Documentation for DevPanel"
+  author = "BinhVo"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = true
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "-"
+  themeVariant = "blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
