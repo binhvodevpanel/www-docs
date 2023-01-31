@@ -35,7 +35,7 @@ jobs:
         run: hugo --minify
 
       - name: sync to storage
-        run: aws s3 sync --acl public-read --follow-symlinks --delete ./public/* s3://$S3_BUCKET_NAME/
+        run: aws s3 sync --acl public-read --follow-symlinks --delete ./public/ s3://$S3_BUCKET_NAME/
 
       - name: invalidation cloudfront distribution
         run: aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/index.html"
