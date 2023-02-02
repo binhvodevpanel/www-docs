@@ -6,7 +6,7 @@ languageCode = "en-us"
 metaDataFormat = "yaml"
 
 [params]
-  editURL = "https://gitlab.com/devpanel-vn/www-docs/-/tree/master/content/"
+  editURL = "https://github.com/devpanel/www-docs/tree/main/content/"
   description = "Documentation for DevPanel"
   author = "BinhVo"
   showVisitedLinks = true
