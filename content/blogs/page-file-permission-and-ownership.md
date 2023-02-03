@@ -1,6 +1,6 @@
 ---
 title: "File permissions and ownership"
-description: "Setting the file permissions on your server can help improve the security of your site. The permissions that are used may vary based on your server configuration, your level of access, and the way you intend to use your Backdrop site."
+description: "Setting the file permissions on your server can help improve the security of your site. The permissions that are used may vary based on your server configuration, your level of access, and the way you intend to use your site."
 weight: 2
 ---
 

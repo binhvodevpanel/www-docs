@@ -1,7 +1,7 @@
 ---
 title: "How to Check & Upgrade to latest Wordpress Version"
 description: "How to Check & Upgrade to latest Wordpress Version"
-weight: 1
+weight: 2
 ---
 
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
