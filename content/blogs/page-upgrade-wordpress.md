@@ -16,11 +16,11 @@ You can check your wordpress site version in the admin dashboard by following th
 
 - **Log in** to your Wordpress Admin Dashboard
 
-![Login page](/images/blogs/page-upgrade-wordpress/wp-login.png)
+![Login page](/images/blogs/page-upgrade-wordpress/wp-login.jpg)
 
 - In the **Home** page of Wordpress Admin Dashboard, locate the **At a Glance** section
 
-![At A glance](/images/blogs/page-upgrade-wordpress/at-a-glance.png)
+![At A glance](/images/blogs/page-upgrade-wordpress/at-a-glance.jpg)
 
 - You will find your Wordpress version
 
@@ -30,11 +30,11 @@ The WP-CLI is a tool that enables you to interact with your WordPress site direc
 
 - Open the **code-server** of your application on DevPanel
 
-![Codeserver](/images/blogs/page-upgrade-wordpress/code-server.png)
+![Codeserver](/images/blogs/page-upgrade-wordpress/code-server.jpg)
 
 - Open **terminal** on **code-server**
 
-![Vscode terminal](/images/blogs/page-upgrade-wordpress/vs-code-terminal.png)
+![Vscode terminal](/images/blogs/page-upgrade-wordpress/vs-code-terminal.jpg)
 
 - Run commands `wp core version`
 
@@ -58,7 +58,7 @@ After correct file permission to all of file we can upgrade wordpress by followi
 - Locate the "**At a Glance**" widget.
 - You’ll see your current WordPress version, and if it’s outdated, you’ll see the "**Update to 6.1.1**" button right next to it.
 
-![At A glance](/images/blogs/page-upgrade-wordpress/at-a-glance.png)
+![At A glance](/images/blogs/page-upgrade-wordpress/at-a-glance.jpg)
 
 - Click on the "**Update to 6.1.1**" button.
 
@@ -66,8 +66,8 @@ After correct file permission to all of file we can upgrade wordpress by followi
 
 - Click the "**Update Now**" button.
 
-![Update now](/images/blogs/page-upgrade-wordpress/update-now.png)
+![Update now](/images/blogs/page-upgrade-wordpress/update-now.jpg)
 
 - Your WordPress website will be updated to the latest 6.1.1 version in less than a minute.
 
-![Wordpress upgrade successfully](/images/blogs/page-upgrade-wordpress/wordpress-6-1.png)
+![Wordpress upgrade successfully](/images/blogs/page-upgrade-wordpress/wordpress-6-1.jpg)
